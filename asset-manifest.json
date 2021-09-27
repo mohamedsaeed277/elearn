@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/elearn/static/js/main.bf4767f6.chunk.js",
-    "main.js.map": "/elearn/static/js/main.bf4767f6.chunk.js.map",
+    "main.js": "/elearn/static/js/main.b3179048.chunk.js",
+    "main.js.map": "/elearn/static/js/main.b3179048.chunk.js.map",
     "runtime-main.js": "/elearn/static/js/runtime-main.b0e8ebca.js",
     "runtime-main.js.map": "/elearn/static/js/runtime-main.b0e8ebca.js.map",
-    "static/js/2.7883caad.chunk.js": "/elearn/static/js/2.7883caad.chunk.js",
-    "static/js/2.7883caad.chunk.js.map": "/elearn/static/js/2.7883caad.chunk.js.map",
+    "static/js/2.51dd53b0.chunk.js": "/elearn/static/js/2.51dd53b0.chunk.js",
+    "static/js/2.51dd53b0.chunk.js.map": "/elearn/static/js/2.51dd53b0.chunk.js.map",
     "index.html": "/elearn/index.html",
-    "static/js/2.7883caad.chunk.js.LICENSE.txt": "/elearn/static/js/2.7883caad.chunk.js.LICENSE.txt",
+    "static/js/2.51dd53b0.chunk.js.LICENSE.txt": "/elearn/static/js/2.51dd53b0.chunk.js.LICENSE.txt",
     "static/media/undraw_education_f8ru.7ad307c4.png": "/elearn/static/media/undraw_education_f8ru.7ad307c4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b0e8ebca.js",
-    "static/js/2.7883caad.chunk.js",
-    "static/js/main.bf4767f6.chunk.js"
+    "static/js/2.51dd53b0.chunk.js",
+    "static/js/main.b3179048.chunk.js"
   ]
 }
